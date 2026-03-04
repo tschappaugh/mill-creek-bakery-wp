@@ -1,0 +1,18 @@
+# Third party plugins
+plugins/index.php
+plugins/wds-headless-acf/
+plugins/wp-graphql/
+plugins/akismet/
+plugins/hello.php
+
+# Third party themes
+themes/index.php
+themes/twenty*/
+
+index.php
+
+# Uploads
+uploads/
+
+# OS files
+.DS_Store
