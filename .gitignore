@@ -4,6 +4,7 @@ plugins/wds-headless-acf/
 plugins/wp-graphql/
 plugins/akismet/
 plugins/hello.php
+plugins/imsanity/
 
 # Third party themes
 themes/index.php
