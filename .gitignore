@@ -15,6 +15,10 @@ index.php
 # Uploads
 uploads/
 
+# WordPress core update directories
+upgrade/
+upgrade-temp-backup/
+
 # OS files
 .DS_Store
 
